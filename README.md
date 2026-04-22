@@ -18,7 +18,7 @@ Follow along — the next one ships soon.
 
 ## Online
 
-- [jorasken.com](https://jorasken.com)
+- [jorasken.pages.dev](https://jorasken.pages.dev)
 - [X / Twitter](https://x.com/joraskenia)
 - [YouTube](https://www.youtube.com/@jorasken)
 
